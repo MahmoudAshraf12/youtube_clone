@@ -1,3 +1,5 @@
+![Untitled design (2)](https://github.com/MahmoudAshraf12/youtube_clone/assets/99623614/dfa32f58-1fc9-416c-9c32-f422b05864b2)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
